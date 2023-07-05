@@ -1,0 +1,22 @@
+{
+  "name": "assignment-7-adduriaishwarya",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "sass": "npx sass scss/main.scss dist/main.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neu-mis-info-6150-spring-2023/assignment-7-adduriAishwarya.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neu-mis-info-6150-spring-2023/assignment-7-adduriAishwarya/issues"
+  },
+  "homepage": "https://github.com/neu-mis-info-6150-spring-2023/assignment-7-adduriAishwarya#readme",
+  "dependencies": {
+    "sass": "^1.59.2"
+  },
+  "description": ""
+}
