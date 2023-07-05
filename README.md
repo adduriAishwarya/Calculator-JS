@@ -6,6 +6,8 @@ This is a simple calculator project built using HTML5 and JavaScript Canvas API 
 ## Getting Started
 
 To get started, simply open the `index.html` file in your web browser. The calculator should appear on the screen, and you can start using it right away.
+![image](https://github.com/adduriAishwarya/Calculator-JS/assets/114749497/a9061508-dc71-439d-9192-a14211a4b88e)
+
 
 ## Implementation
 
@@ -30,6 +32,7 @@ To use the calculator, click on the buttons to enter numbers and operators. The 
 ## Development
 
 To modify or extend the calculator, you can edit the `script.js` file. This file contains all the JavaScript code that powers the calculator. Feel free to change button colors, add new operations, or modify the layout to suit your needs.
+
 
 ## License
 
